@@ -30,6 +30,3 @@ This project implements a class hierarchy using inheritance in C++. The base cla
 - `Car.cpp`, `Truck.cpp`, `Motorcycle.cpp`, `Boat.cpp` – Derived class implementations
 - `main.cpp` – Program entry point and testing
 - `Makefile` – Compilation instructions
-
-## License
-This project is for educational purposes and can be freely modified or shared.
